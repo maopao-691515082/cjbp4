@@ -1,0 +1,4 @@
+title=cjbp4
+author=xt
+orientation=landscape
+fullscreen=1
